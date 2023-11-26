@@ -1,0 +1,3 @@
+C:/Users/Daniel/CLionProjects/VampireSurvivors2/cmake-build-debug/CMakeFiles/VampireSurvivors2.dir
+C:/Users/Daniel/CLionProjects/VampireSurvivors2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel/CLionProjects/VampireSurvivors2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
