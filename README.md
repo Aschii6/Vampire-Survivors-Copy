@@ -7,5 +7,4 @@ A little unplayable since player loses hp randomly after 2 minutes, no clue why.
 
 DEMO
 
-https://www.youtube.com/watch?v=<3pNNtkX0JN4&ab_channel=Aschilopatu>
-https://youtu.be/<3pNNtkX0JN4&ab_channel=Aschilopatu>
+https://www.youtube.com/watch?v=3pNNtkX0JN4&ab_channel=Aschilopatu
