@@ -27,6 +27,13 @@ public:
             [](const std::shared_ptr<Entity>& e) {
                 return !e->isAlive();
             }), entities.end());
+
+        for (auto& pair : entityMap)
+        {
+            pair.second.erase(remove_if(pair.second.begin(), pair.second.end(),
+                                        [](const shared_ptr<Entity>& e) {
+                return !e->isAlive(); }), pair.second.end());
+        }
     }
 
     std::shared_ptr<Entity> addEntity(const std::string& tag) {
